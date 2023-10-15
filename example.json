@@ -1,7 +1,7 @@
 {
 	"name": "Crust Server",
 	"author": "poochy_dewy",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"description": "A Crust Cove background, based on the betterdiscord theme, with the same name.",
 	"authors": [ 
 		{
@@ -16,7 +16,7 @@
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#450150", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#CE09F2", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#000000", "#FFFFFF"],
