@@ -1,4 +1,4 @@
-{
+-º+{
 	"name": "Crust Server",
 	"author": "poochy_dewy",
 	"version": "0.1.3",
@@ -10,7 +10,7 @@
 		}
 	],
 	"background": {
-		"blur": "1",
+		"blur": "3",
 		"url": "https://i.imgur.com/9WsEtjs.gif",
 		"alpha": "0.69"
 	},
@@ -22,7 +22,7 @@
 		"BACKGROUND_TERTIARY": ["#450150", "#FFFFFF"],
 		"BACKGROUND_ACCENT": ["#ce09f1", "#FFFFFF"],
 		"BACKGROUND_FLOATING": ["#450150", "#FFFFFF"],
-		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
+		"BACKGROUND_NESTED_FLOATING": ["#ce09f1", "#FFFFFF"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FFFFFF"],
